@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--ToggleButtonView-->
+    <declare-styleable name="ToggleButtonView">
+        <attr name="state" format="boolean" />
+    </declare-styleable>
+    <!--ToggleButton-->
+    <declare-styleable name="ToggleButton">
+        <attr name="switchState" format="boolean" />
+    </declare-styleable>
+
+    <!--SlideButtonView-->
+    <declare-styleable name="SlideButtonView">
+        <attr name="status" format="boolean" />
+    </declare-styleable>
+
+    <!--CirecleMenuView-->
+    <declare-styleable name="CirecleMenuView">
+        <attr name="cmvText" format="string|reference" />
+    </declare-styleable>
+</resources>
